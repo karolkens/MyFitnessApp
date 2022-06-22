@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFitnessApp</string>
+    <string name="button1">Login</string>
+    <string name="textview1">Welcome, type login and passowrd</string>
+    <string name="editTextPersonName">Fill name field</string>
+    <string name="password">password</string>
+    <string name="button_home">Start</string>
+</resources>
